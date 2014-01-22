@@ -1,0 +1,53 @@
+<!DOCTYPE HTML>
+<head>
+<meta name="description" content="Basic Portfolio">
+<meta name="author" content="name goes here">
+<meta charset="UTF-8">
+<link type="text/css" rel="stylesheet" href="style.css">
+<title>Blog</title>
+</head>
+<body>
+        <content>
+                <header>
+                <h1>Blog</h1>
+                <ul id="nav">
+                        <li><a href="index.html">home</a></li>
+                        <li><a href="lived.html">lived <br />experiences</a></li>
+                        <li><a href="#">cultural <br />analysis</a></li>
+                        <li><a href="#">formal <br />research</a></li>
+                        <li><a href="#">remix</a></li>
+                        <li><a href="#">course <br />retrospective</a></li>
+                        <li><a href="#">blog</a></li>
+                </ul>
+                </header>
+                <main>
+                        <h1>Blog Entry 1</h1>
+                        <p>The purpose of this video is to promote that homosexuality is not wrong.  To show that homosexuals
+                        suffer a great amount from all the hate that is given to them by people in the world that dont agree
+                        with it.  To help people who are homosexual that things do get better and that suicide or other types
+                        of self harm are not the answer.  To show that everything will be okay.
+                        The video attempts to achieve this purpose was through reading a letter that Randy writes to his Uncle
+                        that had passed away from a self inflicted gun shot wound.  The reason how this is relavent to the purpose
+                        that Randy is trying to get across is because his Uncle was gay.  The reason why he had committed suicide
+                        is from how much hate and resentment he had recieved from everyone who knew that he was gay.  This included
+                        his father especially.  It shows that because of how much he suffered from all this hate that he though 
+                        his only option was to commit suicide just to get away from the pain.  He relates it to himself and how
+                        he feels that he is in the same shoes because his mother never wanted a gay son either just as his uncle
+                        Ronnie's father never wanted a gay son.  He explains how bad it was and how much hurt he felt when he fist
+                        announced that he was gay.  He tells that he feels in the same position that his uncle was in but in his case
+                        he did not choose suicide.  He chose to live and he explains that things do get better.
+                        The structure of the message is presented by first reading a poem that he had said stuck with him 
+                        for most of his life.  Than he reads the letter that he wrote to his Uncle that had shared the same 
+                        situation that he is currently in that realates to homosexualtiy and the hurt that he feels from being
+                        that way.  After the video cuts out and that it starts again and it is him 5 years into the future and 
+                        tells that it does get better.  After he puts out bold statements to really make an impact with the video
+                        and emphasize his points.
+                        The video structure can help me revise my Lived Experience Project by allowing me to explore that there are
+                        different ways to structure my paper.  That I can switch things around and make it unknown what the purpose
+                        of the paper is until the end when I tie it all together.</p>
+                </main>
+                <footer>
+                <p>&copy; 2013 [Name goes here]</p>
+                </footer>
+        </content>
+</body>        
