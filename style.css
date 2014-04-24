@@ -1,7 +1,7 @@
 body {
 	color:#fff;
 	background:#333;
-	font-family:Courier;
+	font-family:Verdana;
 	width:960px;
 	margin:auto;
 }
@@ -15,7 +15,7 @@ header, main, footer {
 }
 
 header, main h1 {
-	color:#00ff00;
+	color:#181ECC;
 }
 
 a, a:visited {
