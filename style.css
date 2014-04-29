@@ -15,7 +15,7 @@ header, main, footer {
 }
 
 header, main h1 {
-	color:#181ECC;
+	color:white;
 }
 
 a, a:visited {
@@ -48,7 +48,7 @@ a:hover {
 	border: 2px solid white;
 	border-radius:10px;
 	font-family:Impact;
-	color:#181ECC;
+	color:white;
 }
 
 #menu {
@@ -70,7 +70,7 @@ a:hover {
 	padding:5px;
 	margin-bottom:10px;
 	font-size:13px;
-	color:#181ECC;
+	color:white;
 	}
 	
 article {
